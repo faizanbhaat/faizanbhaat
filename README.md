@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student at University of Muhammadiah Surakarta<br>🌱 I’m currently learning AI, ML, Cloud Computing, Hacker<br>⚡ Fun fact I am President
+🔭 I’m currently a student at University of Muhammadiah Surakarta<br>🌱 I’m presently learning AI, ML, Cloud Computing<br>
 
 
 # 💻 Tech Stack:
